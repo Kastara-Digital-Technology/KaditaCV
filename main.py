@@ -1,4 +1,4 @@
-from fingerprint_matcher import FingerprintMatcher
+from fingerprint.fingerprint_matcher import FingerprintMatcher
 import argparse
 
 if __name__ == "__main__":
