@@ -12,13 +12,13 @@ An experimental to make a simplest way to build your project with object detecti
 ## Why Kadita CV?
 ## Example
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 100%;">
+  <div style="flex: 50%;">
     <figure>
       <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/snippets/kaditaBefore.png" alt="">
       <figcaption>Before</figcaption>
     </figure>
   </div>
-  <div style="flex: 100%;">
+  <div style="flex: 50%;">
     <figure>
       <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/snippets/kaditaAfter.png" alt="">
       <figcaption>After</figcaption>
