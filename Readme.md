@@ -12,10 +12,10 @@ An experimental to make a simplest way to build your project with object detecti
 ## Why Kadita CV?
 ## Example
 <div style="display: flex;">
-  <div style="flex: 50%; padding: 0 15px;">
+  <div style="flex: 100%; padding: 0 15px;">
   <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/snippets/kaditaBefore.png" alt="">
   </div>
-  <div style="flex: 50%; padding: 0 15px;">
+  <div style="flex: 100%; padding: 0 15px;">
     <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/snippets/kaditaAfter.png" alt="">
   </div>
 </div>
