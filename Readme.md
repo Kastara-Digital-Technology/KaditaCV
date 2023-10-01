@@ -10,21 +10,7 @@ An experimental to make a simplest way to build your project with object detecti
 <br/>
 
 ## Why Kadita CV?
-## Example
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 50%;">
-    <figure>
-      
-      <figcaption>Before</figcaption>
-    </figure>
-  </div>
-  <div style="flex: 50%;">
-    <figure>
-      
-      <figcaption>After</figcaption>
-    </figure>
-  </div>
-</div>
+## Example use Kadita CV
 
 | Before                                                                                                                  | After                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
