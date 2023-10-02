@@ -11,8 +11,8 @@
 
 
 
-                                                          # Selamat Datang di KADITA: Framework Computer Vision
-
+    # Selamat Datang di KADITA: Framework Computer Vision
+<div align="justify"> 
 KADITA adalah sebuah framework Computer Vision yang kuat dan serbaguna yang dirancang untuk membantu Anda dalam pengembangan aplikasi yang melibatkan analisis dan pemrosesan gambar. Framework ini menawarkan berbagai fitur dan alat untuk memfasilitasi tugas-tugas Computer Vision. KADITA didukung oleh komunitas yang aktif dan berkembang pesat, dengan dokumentasi yang kaya dan berbagai contoh aplikasi. Kami berharap bahwa framework ini akan membantu Anda dalam pengembangan proyek-proyek Computer Vision Anda.
 
 ## Why Kadita CV?
@@ -86,7 +86,7 @@ KADITA CV didasarkan pada pengalaman dan pengetahuan kami yang luas dan berpenga
 | <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/blob/main/snippets/KaditaCVBefore.png" alt=""> | <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/blob/main/snippets/KaditaCVAfter.png" alt=""> | Row 1, Col 3 |
 
 
-
+</div>
 <br>
 <div align="center">
 <a href="https://github.com/Kastara-Digital-Technology" style="text-decoration:none;">
