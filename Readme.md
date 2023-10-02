@@ -1,8 +1,11 @@
 <!--suppress ALL -->
-<p align="center">
+<br/>
+<div align="center">
   <a href="https://bengkelti.com/kadita-docs">
-  <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/logo/cvLogo.png" alt=""></a>
-</p>
+  <img width="200" src="https://github.com/Kastara-Digital-Technology/assets/raw/main/logo/V2/cvColorLogo.png" alt=""></a>
+
+[English](README.md) | [Bahasa Indonesia](README.ID.md)
+</div>
 
 # Kadita CV
 An experimental to make a simplest way to build your project with object detection.
