@@ -9,6 +9,8 @@
 An experimental to make a simplest way to build your project with object detection
 <br/>
 
+## Introduction
+
 ## Why Kadita CV?
 ## Example use Kadita CV
 
