@@ -43,7 +43,6 @@ Dengan mempertimbangkan alasan-alasan di atas, KADITA CV adalah pilihan yang kua
 
 <br/>
 
-# Kadita Computer Vision
 ## Apa yang Kami Tawarkan
 
 KADITA CV menyediakan beragam solusi untuk memecahkan masalah-masalah yang kompleks:
