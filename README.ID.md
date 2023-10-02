@@ -73,7 +73,7 @@ KADITA CV mendukung berbagai alat, platform, dan kerangka kerja:
 
 KADITA CV didasarkan pada pengalaman dan pengetahuan kami yang luas dan berpengalaman selama 5 tahun dalam Computer Vision dan Machine Learning. Kami berkomitmen untuk memberikan solusi-solusi yang inovatif dan berkualitas tinggi untuk proyek-proyek Anda.
 
-
+## Example Use Kadita - CV
 | Before                                                                                                                  | After                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/blob/main/snippets/KaditaCVBefore.png" alt=""> | <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/blob/main/snippets/KaditaCVAfter.png" alt=""> | Row 1, Col 3 |
