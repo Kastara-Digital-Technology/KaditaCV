@@ -6,7 +6,52 @@
 
 
 # Kadita Computer Vision
-An experimental to make a simplest way to build your project with object detection
+## Apa yang Kami Tawarkan
+
+KADITA CV menyediakan beragam solusi untuk memecahkan masalah-masalah yang kompleks:
+
+- **Pelatihan dan Implementasi Model Machine Learning:** Kami membantu Anda dalam melatih dan mengimplementasikan model-machine learning yang sesuai dengan kebutuhan Anda.
+
+- **Deteksi Objek:** Kami mendukung berbagai model seperti YOLO-v3, YOLO-v4, YOLOv5, dan banyak lagi. Selain itu, kami juga mendukung model-model seperti RetinaNet, Mask-RCNN, dan Faster-RCNN.
+
+- **Pelacakan Objek:** Kami memiliki dukungan untuk DEEP-SORT, ByteTrack, dan berbagai pelacakan objek dengan OpenCV.
+
+- **Segmentasi Gambar:** Solusi segmentasi gambar yang kami tawarkan mencakup penggunaan Mask-RCNN dan U-NET.
+
+- **Estimasi Pose:** Kami mendukung YOLOv7 untuk estimasi pose objek.
+
+- **Pengenalan Wajah:** Dalam hal pengenalan wajah, kami memiliki pengalaman dengan model-model seperti Facenet, Facial Landmark, Dlib, OpenFace, DeepFace, dan lain-lain.
+
+- **OCR (Optical Character Recognition):** Kami dapat membantu Anda dengan solusi OCR menggunakan tesseractOCR, PaddleOCR, dan lain-lain.
+
+- **Klasterisasi dan Klasifikasi Data:** Kami memiliki pengalaman dalam penggunaan berbagai algoritma seperti K-MEAN, SVM, PCA, Random Forest, Naive Bayes, Decision Tree, dan Logistic Regression.
+
+- **Deteksi Anomali:** Kami mendukung solusi deteksi anomali menggunakan SVM.
+
+- **Pemrosesan Bahasa Alami (NLP):** Kami memiliki pengalaman dalam pemrosesan bahasa alami.
+
+- **Pra-pemrosesan Citra:** Kami menggunakan OpenCV dan Convolutional Neural Networks (CNN) untuk pra-pemrosesan citra.
+
+- **Analisis dan Peramalan Time Series:** Kami dapat membantu Anda dalam analisis dan peramalan time series.
+
+- **Implementasi Model dengan REST APIs:** Kami memiliki pengalaman dalam implementasi model dengan REST APIs menggunakan Flask, Django, Streamlit, dan lain-lain.
+
+- **Pemrograman dengan Perangkat Edge (Edge Devices):** Kami berpengalaman dalam pemrograman dengan perangkat edge seperti Jetson, Raspberry-Pi, dan NCS.
+
+## Tools, Platform, dan Framework
+
+KADITA CV mendukung berbagai alat, platform, dan kerangka kerja:
+
+- **Alat Machine Learning dan Deep Learning:** Kami menggunakan PyTorch, TensorFlow, Keras, OpenCVDNN, scikit-learn, dan OpenCV.
+
+- **Platform Cloud:** Kami beroperasi di berbagai platform cloud termasuk AWS, GCP, dan Azure. 
+
+- **Lingkungan Pengembangan:** Kami menggunakan Jupyter Notebook dan Colab untuk pengembangan.
+
+- **Basis Data:** Kami memiliki pengalaman dengan berbagai basis data termasuk MySQL, MongoDB, dan MariaDB.
+
+KADITA CV didasarkan pada pengalaman dan pengetahuan kami yang luas dan berpengalaman selama 5 tahun dalam Computer Vision dan Machine Learning. Kami berkomitmen untuk memberikan solusi-solusi yang inovatif dan berkualitas tinggi untuk proyek-proyek Anda.
+
 <br/>
 
 # Selamat Datang di KADITA: Framework Computer Vision
