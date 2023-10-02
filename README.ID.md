@@ -6,19 +6,7 @@
 
 # Selamat Datang di KADITA: Framework Computer Vision
 
-KADITA adalah sebuah framework Computer Vision yang kuat dan serbaguna yang dirancang untuk membantu Anda dalam pengembangan aplikasi yang melibatkan analisis dan pemrosesan gambar. Framework ini menawarkan berbagai fitur dan alat untuk memfasilitasi tugas-tugas Computer Vision, termasuk:
-
-- **Deteksi Objek:** KADITA mendukung deteksi objek dalam gambar dan video, memungkinkan Anda untuk mengidentifikasi dan melacak objek dengan mudah.
-
-- **Pengenalan Wajah:** Framework ini memiliki kemampuan pengenalan wajah yang kuat, sehingga Anda dapat mengimplementasikan solusi pengenalan wajah dengan mudah.
-
-- **Segmentasi Gambar:** KADITA dapat digunakan untuk melakukan segmentasi gambar, yang berguna dalam berbagai aplikasi, termasuk segmentasi objek dalam gambar medis.
-
-- **Estimasi Pose:** Anda dapat menggunakan framework ini untuk mengestimasi pose objek atau manusia dalam gambar atau video.
-
-- **Pengolahan Citra:** Framework ini dilengkapi dengan berbagai algoritma pengolahan citra, termasuk peningkatan kualitas gambar dan transformasi.
-
-- **Kompatibilitas Kamera:** KADITA mendukung berbagai jenis kamera dan sumber gambar, memungkinkan Anda untuk mengintegrasikan solusi Computer Vision dengan perangkat keras yang berbeda.
+KADITA adalah sebuah framework Computer Vision yang kuat dan serbaguna yang dirancang untuk membantu Anda dalam pengembangan aplikasi yang melibatkan analisis dan pemrosesan gambar. Framework ini menawarkan berbagai fitur dan alat untuk memfasilitasi tugas-tugas Computer Vision. 
 
 KADITA didukung oleh komunitas yang aktif dan berkembang pesat, dengan dokumentasi yang kaya dan berbagai contoh aplikasi. Kami berharap bahwa framework ini akan membantu Anda dalam pengembangan proyek-proyek Computer Vision Anda.
 
@@ -31,8 +19,6 @@ KADITA didukung oleh komunitas yang aktif dan berkembang pesat, dengan dokumenta
 - **Kemampuan Deteksi Wajah yang Kuat:** KADITA CV memiliki kemampuan deteksi wajah yang handal, yang berguna dalam berbagai aplikasi, termasuk pengenalan wajah dan analisis ekspresi wajah.
 
 - **Dukungan Komunitas:** Framework ini didukung oleh komunitas yang aktif, yang berarti Anda dapat memperoleh dukungan dan masukan dari pengembang lainnya.
-
-- **Kustomisasi yang Fleksibel:** Anda dapat menyesuaikan dan mengkonfigurasi KADITA CV sesuai dengan kebutuhan proyek Anda. Framework ini memberi Anda fleksibilitas dalam penggunaan model-model yang telah tersedia atau membuat model Anda sendiri.
 
 - **Performa Cepat:** KADITA CV dirancang dengan performa tinggi dalam pikiran, memungkinkan Anda untuk menjalankan tugas-tugas Computer Vision dalam waktu nyata atau mendekati waktu nyata.
 
