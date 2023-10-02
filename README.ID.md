@@ -76,7 +76,7 @@ KADITA CV didasarkan pada pengalaman dan pengetahuan kami yang luas dan berpenga
 
 | Before                                                                                                                  | After                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/blob/main/snippets/KaditaCVBefore.png" alt=""> | <img width="100%" src="snippets/KaditaCVAfter.png" alt=""> | Row 1, Col 3 |
+| <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/blob/main/snippets/KaditaCVBefore.png" alt=""> | <img width="100%" src="https://github.com/Kastara-Digital-Technology/assets/blob/main/snippets/KaditaCVAfter.png" alt=""> | Row 1, Col 3 |
 
 
 
